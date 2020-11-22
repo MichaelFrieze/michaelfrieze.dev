@@ -1,3 +1,4 @@
+/* eslint-disable react/display-name */
 import React from 'react';
 import { Link } from 'gatsby';
 import { Helmet } from 'react-helmet';
@@ -41,3 +42,14 @@ export default () => {
     </>
   );
 };
+
+/* 
+If displayName becomes an issue, here are solutions:
+
+import { compose, setDisplayName } from 'recompose';
+export default compose(setDisplayName('SomeComponent'))(props => ...);
+
+or
+
+export default Object.assign(props => ..., { displayName: 'SomeComponent' });
+*/

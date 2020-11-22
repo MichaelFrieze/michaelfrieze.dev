@@ -1,0 +1,21 @@
+{
+  // VS Code will recognize all js files as react
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  // disabling format on save for js and react to let eslint handle it
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  // tell the ESLint plugin to run on save
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+    // or try to use source.fixALL if there are problems
+    // learn more about eslint confir: https://github.com/wesbos/eslint-config-wesbos
+  },
+  // If installed, turn off prettier for JS since we are doing it through Eslint already
+  "prettier.disableLanguages": ["javascript", "javascriptreact"]
+}

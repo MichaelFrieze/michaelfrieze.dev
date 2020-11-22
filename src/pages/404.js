@@ -7,6 +7,7 @@ import Fade from 'react-reveal/Fade';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import { headData } from '../mock/data';
+
 import '../style/main.scss';
 
 export default () => {

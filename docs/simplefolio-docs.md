@@ -18,18 +18,23 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](https://gatsby-simplefolio.netlify.com/)**\
+To view a demo example,
+**[click here](https://gatsby-simplefolio.netlify.com/)**\
 To view a live example, **[click here](https://cobidev.com/)**
 
 ---
 
 ## Getting Started 🚀
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your
+local machine for development and testing purposes. See deployment for notes on
+how to deploy the project on a live system.
 
 ### Prerequisites 📋
 
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.\
+You'll need [Git](https://git-scm.com) and
+[Node.js](https://nodejs.org/en/download/) (which comes with
+[NPM](http://npmjs.com)) installed on your computer.\
 Also you need to have installed [Gatsby CLI](https://www.gatsbyjs.org/docs/quick-start/)
 
 ```
@@ -84,15 +89,16 @@ $ yarn
 $ yarn develop
 ```
 
-**NOTE**:
-If your run into issues installing the dependencies with NPM, use this command:
+**NOTE**: If your run into issues installing the dependencies with NPM, use this
+command:
 
 ```bash
 # Install dependencies with all permissions
 $ sudo npm install --unsafe-perm=true --allow-root
 ```
 
-Once your server has started, go to this url `http://localhost:8000/` and you will see the website running on a Development Server:
+Once your server has started, go to this url `http://localhost:8000/` and you
+will see the website running on a Development Server:
 
 <h2 align="center">
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Gatsby Simplefolio" width="100%">
@@ -119,7 +125,8 @@ export const heroData = {
 
 ### About Section
 
-**_Important Note_**: All the images must live inside the `src/images/` folder in order for Gatsby to show the images correctly.
+**_Important Note_**: All the images must live inside the `src/images/` folder
+in order for Gatsby to show the images correctly.
 
 ```javascript
 export const aboutData = {
@@ -133,7 +140,8 @@ export const aboutData = {
 
 ### Projects Section
 
-**_Important Note_**: All the images must live inside the `src/images/` folder in order for Gatsby to show the images correctly.
+**_Important Note_**: All the images must live inside the `src/images/` folder
+in order for Gatsby to show the images correctly.
 
 Put as many projects object you want inside the `array`.
 
@@ -174,7 +182,8 @@ export const contactData = {
 ### Footer Section
 
 You can remove or add as many you social-media icons you want.\
-Just put an object with the corresponding values inside the networks `array` or remove it from there.
+Just put an object with the corresponding values inside the networks `array` or remove
+it from there.
 
 ```javascript
 export const footerData = {
@@ -218,7 +227,8 @@ export const githubButtons = {
 
 Change the color theme of the website ( choose 2 colors to create a gradient ):
 
-Go to `src/styles/abstracts/_variables.scss` and only change the values on this classes `$main-color` and `$secondary-color` to your prefered HEX color
+Go to `src/styles/abstracts/_variables.scss` and only change the values on this
+classes `$main-color` and `$secondary-color` to your prefered HEX color
 
 ```scss
 // Default values
@@ -226,7 +236,8 @@ $main-color: #02aab0;
 $secondary-color: #00cdac;
 ```
 
-**_Note_**: I highly recommend to checkout gradients variations on [UI Gradient](https://uigradients.com/#BrightVault)
+**_Note_**: I highly recommend to checkout gradients variations on
+[UI Gradient](https://uigradients.com/#BrightVault)
 
 ---
 
@@ -234,11 +245,13 @@ $secondary-color: #00cdac;
 
 Once you have done with your setup. You need to put your website online!
 
-I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
+I highly recommend to use [Netlify](https://netlify.com) to achieve this on the
+EASIEST WAY
 
 ## Others versions 👥
 
-[Simplefolio](https://github.com/cobidev/simplefolio) by [Jacobo Martinez](https://github.com/cobidev)\
+[Simplefolio](https://github.com/cobidev/simplefolio) by
+[Jacobo Martinez](https://github.com/cobidev)\
 [Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
 
 ## Technologies used 🛠️
@@ -246,7 +259,8 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 - [Gatsby](https://www.gatsbyjs.org/) - Static Site Generator
 - [GraphQL](https://graphql.org/) - Query language for APIs
 - [React](https://es.reactjs.org/) - Front-End JavaScript library
-- [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-End UI library
+- [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) -
+  Front-End UI library
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 
 ## Authors
@@ -259,8 +273,12 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the
+[LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+I was motivated to create this project because I wanted to contribute on
+something useful for the dev community, thanks to
+[ZTM Community](https://github.com/zero-to-mastery) and
+[Andrei](https://github.com/aneagoie)

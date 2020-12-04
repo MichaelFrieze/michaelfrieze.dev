@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
+  title: 'Michael Frieze | Developer', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Michael Frieze',
+  subtitle: 'I love all things Javascript.',
   cta: '',
 };
 
@@ -28,30 +28,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'project1.jpg',
+    title: "Slick's Slices",
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://slicksslices-michaelfrieze.netlify.app/',
+    repo: 'https://github.com/MichaelFrieze/slicks-slices', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'project2.jpg',
+    title: 'CRWN Clothing',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://michaelfrieze-crwn-live.herokuapp.com/',
+    repo: 'https://github.com/MichaelFrieze/crown-clothing', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'project3.jpg',
+    title: 'Loruki',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://michaelfrieze-loruki.netlify.app/',
+    repo: 'https://github.com/MichaelFrieze/loruki', // if no repo, the button will not show up
   },
 ];
 
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'contact@michaelfrieze.dev',
 };
 
 // FOOTER DATA
@@ -68,27 +68,32 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/michaelfrieze',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'facebook',
+      url: 'https://www.facebook.com/michaelfrieze88/',
     },
-    {
-      id: nanoid(),
-      name: 'linkedin',
-      url: '',
-    },
+    // {
+    //   id: nanoid(),
+    //   name: 'codepen',
+    //   url: '',
+    // },
+    // {
+    //   id: nanoid(),
+    //   name: 'linkedin',
+    //   url: '',
+    // },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/MichaelFrieze',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };

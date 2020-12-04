@@ -40,7 +40,7 @@ const Footer = () => {
         <p className="footer__text">
           © {new Date().getFullYear()} -{' '}
           <a
-            href="https://github.com/michaelfrieze"
+            href="https://michaelfrieze.dev"
             target="_blank"
             rel="noopener noreferrer"
           >

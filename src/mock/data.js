@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Michael Frieze | Developer', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  description: 'Come check out the portfolio of Michael Frieze.', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -21,7 +21,10 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume:
+    'https://drive.google.com/file/d/1chnJjaKB4HA-8cql4gjRXsD8s6B7Ivl6/view?usp=sharing', // if no resume, the button will not show up
+  upwork: 'https://www.upwork.com/fl/michaelfrieze',
+  github: 'https://github.com/MichaelFrieze',
 };
 
 // PROJECTS DATA
@@ -80,11 +83,11 @@ export const footerData = {
     //   name: 'codepen',
     //   url: '',
     // },
-    // {
-    //   id: nanoid(),
-    //   name: 'linkedin',
-    //   url: '',
-    // },
+    {
+      id: nanoid(),
+      name: 'linkedin',
+      url: 'https://www.linkedin.com/in/michaelfrieze/',
+    },
     {
       id: nanoid(),
       name: 'github',

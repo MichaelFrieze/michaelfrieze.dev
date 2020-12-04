@@ -7,7 +7,15 @@ import PortfolioContext from '../../context/context';
 
 const About = () => {
   const { about } = useContext(PortfolioContext);
-  const { img, paragraphOne, paragraphTwo, paragraphThree, resume } = about;
+  const {
+    img,
+    paragraphOne,
+    paragraphTwo,
+    paragraphThree,
+    resume,
+    upwork,
+    github,
+  } = about;
 
   const [isDesktop, setIsDesktop] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
@@ -55,18 +63,71 @@ const About = () => {
                   {paragraphThree ||
                     'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
                 </p>
-                {resume && (
-                  <span className="d-flex mt-3">
-                    <a
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="cta-btn cta-btn--resume"
-                      href={resume}
-                    >
-                      Resume
-                    </a>
-                  </span>
-                )}
+                <span className="d-flex mt-3">
+                  <div className="resume-btn">
+                    {resume && (
+                      <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="cta-btn cta-btn--resume"
+                        href={resume}
+                      >
+                        Resume
+                      </a>
+                    )}
+                  </div>
+                  <div className="resume-btn">
+                    {upwork && (
+                      <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="cta-btn cta-btn--resume"
+                        href={upwork}
+                      >
+                        Upwork
+                      </a>
+                    )}
+                  </div>
+                  <div className="resume-btn">
+                    {github && (
+                      <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="cta-btn cta-btn--resume"
+                        href={github}
+                      >
+                        GitHub
+                      </a>
+                    )}
+                  </div>
+                </span>
+
+                {/* <div>
+                  {resume && (
+                    <span className="d-flex mt-3">
+                      <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="cta-btn cta-btn--resume"
+                        href={resume}
+                      >
+                        Resume
+                      </a>
+                    </span>
+                  )}
+                  {upwork && (
+                    <span className="d-flex mt-3">
+                      <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="cta-btn cta-btn--resume"
+                        href={upwork}
+                      >
+                        Upwork
+                      </a>
+                    </span>
+                  )}
+                </div> */}
               </div>
             </Fade>
           </Col>

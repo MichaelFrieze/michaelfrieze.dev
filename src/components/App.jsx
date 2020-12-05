@@ -13,7 +13,7 @@ import {
   projectsData,
   contactData,
   footerData,
-} from '../mock/data';
+} from '../config/data';
 
 function App() {
   const [hero, setHero] = useState({});

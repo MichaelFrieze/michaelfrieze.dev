@@ -4,7 +4,7 @@ import { Link } from 'react-scroll';
 import PortfolioContext from '../../context/context';
 import GithubButtons from '../GithubButtons/GithubButtons';
 
-import { githubButtons } from '../../mock/data';
+import { githubButtons } from '../../config/data';
 
 const Footer = () => {
   const { footer } = useContext(PortfolioContext);

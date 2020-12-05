@@ -23,8 +23,6 @@ export const aboutData = {
   paragraphThree: '',
   resume:
     'https://drive.google.com/file/d/1chnJjaKB4HA-8cql4gjRXsD8s6B7Ivl6/view?usp=sharing', // if no resume, the button will not show up
-  upwork: 'https://www.upwork.com/fl/michaelfrieze',
-  github: 'https://github.com/MichaelFrieze',
 };
 
 // PROJECTS DATA

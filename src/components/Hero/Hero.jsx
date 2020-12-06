@@ -5,6 +5,9 @@ import { Link } from 'react-scroll';
 import PortfolioContext from '../../context/context';
 
 const Header = () => {
+  const { hero } = useContext(PortfolioContext);
+  const { title, name, subtitle, cta } = hero;
+
   const [isDesktop, setIsDesktop] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
 
@@ -29,10 +32,10 @@ const Header = () => {
           distance="30px"
         >
           <h1 className="hero-title">
-            Hi, my name is{' '}
-            <span className="text-color-main">Michael Frieze</span>
+            {title || 'Hi, my name is'}{' '}
+            <span className="text-color-main">{name || 'Your Name'}</span>
             <br />
-            <span>I love all things Javascript.</span>
+            {subtitle || "I'm the Unknown Developer."}
           </h1>
         </Fade>
         <Fade
@@ -45,7 +48,7 @@ const Header = () => {
           <p className="hero-cta">
             <span className="cta-btn cta-btn--hero">
               <Link to="about" smooth duration={1000}>
-                Know more
+                {cta || 'Know more'}
               </Link>
             </span>
           </p>

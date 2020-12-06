@@ -48,6 +48,15 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project3.jpg',
+    title: 'Natours',
+    info: '',
+    info2: '',
+    url: 'https://michaelfrieze.github.io/natours-css-project/',
+    repo: 'https://github.com/MichaelFrieze/natours-css-project', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project4.jpg',
     title: 'Loruki',
     info: '',
     info2: '',

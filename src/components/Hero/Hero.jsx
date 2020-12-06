@@ -32,10 +32,10 @@ const Header = () => {
           distance="30px"
         >
           <h1 className="hero-title">
-            {title || 'Hi, my name is'}{' '}
-            <span className="text-color-main">{name || 'Your Name'}</span>
+            Hi, my name is{' '}
+            <span className="text-color-main">Michael Frieze</span>
             <br />
-            {subtitle || "I'm the Unknown Developer."}
+            <span>I love all things Javascript.</span>
           </h1>
         </Fade>
         <Fade
@@ -48,7 +48,7 @@ const Header = () => {
           <p className="hero-cta">
             <span className="cta-btn cta-btn--hero">
               <Link to="about" smooth duration={1000}>
-                {cta || 'Know more'}
+                Know more
               </Link>
             </span>
           </p>

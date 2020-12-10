@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'test',
+  paragraphTwo: 'test',
+  paragraphThree: 'test',
   resume:
     'https://drive.google.com/file/d/1frLY2ebxKNMudDrk0vBPu9eqaUhs6ONL/view?usp=sharing', // if no resume, the button will not show up
 };
@@ -31,8 +31,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'project1.jpg',
     title: "Slick's Slices",
-    info: '',
-    info2: '',
+    info: 'This is a jamstack pizza shop built with GatsbyJS.',
+    info2:
+      'I used Sanity.io for the headless CMS, Netlify serverless functions to handle orders and emails, and CSS-in-JS for responsive design.',
     url: 'https://slicksslices-michaelfrieze.netlify.app/',
     repo: 'https://github.com/MichaelFrieze/slicks-slices', // if no repo, the button will not show up
   },
@@ -40,8 +41,10 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.jpg',
     title: 'CRWN Clothing',
-    info: '',
-    info2: '',
+    info:
+      'This is a clothing shop built with ReactJS. I used Heroku free tier for deployment so please be patient if it takes some time to load.',
+    info2:
+      'Redux was used for state management. Firebase was used for authentication and clothing data. Stripe was used to handle payments. CSS-in-JS was used for responsive design.',
     url: 'https://michaelfrieze-crwn-live.herokuapp.com/',
     repo: 'https://github.com/MichaelFrieze/crown-clothing', // if no repo, the button will not show up
   },
@@ -49,8 +52,10 @@ export const projectsData = [
     id: nanoid(),
     img: 'project3.jpg',
     title: 'Natours',
-    info: '',
-    info2: '',
+    info:
+      "This is a simple and responsive website that is used to display CSS and SASS skills. There is no Javascript and no navigation (it has a button but doesn't work).",
+    info2:
+      'This site does not use CSS Grid or Flexbox because I wanted to show that I could also do it the old way using floats. Please see Loruki for CSS Grid and Flexbox examples.',
     url: 'https://michaelfrieze.github.io/natours-css-project/',
     repo: 'https://github.com/MichaelFrieze/natours-css-project', // if no repo, the button will not show up
   },
@@ -58,8 +63,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'project4.jpg',
     title: 'Loruki',
-    info: '',
-    info2: '',
+    info:
+      'A simple and responsive website inspired by Heroku to display CSS skills.',
+    info2: 'CSS, CSS Grid, and Flexbox for responsive design.',
     url: 'https://michaelfrieze-loruki.netlify.app/',
     repo: 'https://github.com/MichaelFrieze/loruki', // if no repo, the button will not show up
   },

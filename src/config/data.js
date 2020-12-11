@@ -18,9 +18,14 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'test',
-  paragraphTwo: 'test',
-  paragraphThree: 'test',
+  paragraphOne:
+    "My name is Michael and I am based in Clinton Township, MI. I found my passion for learning computer sciences at the age of 23 and went to college at age 25. I've dedicated countless hours to learning and expanding this passion. I have developed an avid work ethic and disciplinary skills along my journey in life. Strong creative and critical thinking skills have helped me to excel in areas like web development as well as functional and object oriented programming.",
+
+  paragraphTwo:
+    'In my professional career, I started out as a Java developer working at Oakland University. During my time there, the team decided to implement ReactJS and this sparked my interest in Javascript. I spent the next few years working on various Javascript and CSS projects while continuing to work as a back-end developer. Now, I am shifting my focus more towards front-end development.',
+
+  paragraphThree:
+    'When I am not coding I enjoy playing guitar, watching "The Great Courses" about history, playing PC games, and I love to read. Besides that, I love to spend time with my partner. She is an elementary teacher and we have been together since 2010.',
   resume:
     'https://drive.google.com/file/d/1frLY2ebxKNMudDrk0vBPu9eqaUhs6ONL/view?usp=sharing', // if no resume, the button will not show up
 };
@@ -64,8 +69,8 @@ export const projectsData = [
     img: 'project4.jpg',
     title: 'Loruki',
     info:
-      'A simple and responsive website inspired by Heroku to display CSS skills.',
-    info2: 'CSS, CSS Grid, and Flexbox for responsive design.',
+      'A simple and responsive website inspired by Heroku to display CSS, CSS Grid, and Flexbox skills',
+    info2: '',
     url: 'https://michaelfrieze-loruki.netlify.app/',
     repo: 'https://github.com/MichaelFrieze/loruki', // if no repo, the button will not show up
   },

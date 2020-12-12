@@ -25,7 +25,7 @@ export const aboutData = {
     'In my professional career, I started out as a Java developer working at Oakland University. During my time there, the team decided to implement ReactJS and this sparked my interest in JavaScript. I spent the next few years working on various JavaScript and CSS projects while continuing to work as a back-end developer. Now, I am shifting my focus more towards JavaScript and frontend development in general.',
 
   paragraphThree:
-    'In my free time, I immerse myself in learning new programming technologies and how to better myself as a programmer but also I enjoy playing guitar, video games, reading, and spending time with my partner (since 2010).',
+    'When I am not coding, I enjoy playing guitar, watching "The Great Courses", playing PC games, reading, and spending time with my partner (since 2010).',
   resume:
     'https://drive.google.com/file/d/1frLY2ebxKNMudDrk0vBPu9eqaUhs6ONL/view?usp=sharing', // if no resume, the button will not show up
 };

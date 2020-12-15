@@ -8,6 +8,7 @@ import '../style/main.scss';
 
 export default () => {
   const { title, lang, description } = headData;
+  console.log('description: ', description);
 
   return (
     <>
@@ -15,7 +16,12 @@ export default () => {
         <meta charSet="utf-8" />
         <title>{title}</title>
         <html lang={lang || 'en'} />
-        <meta name="description" content={description} />
+        <meta
+          name="description"
+          content={
+            'Come check out the portfolio of Michael Frieze.' || description
+          }
+        />
       </Helmet>
       <App />
     </>

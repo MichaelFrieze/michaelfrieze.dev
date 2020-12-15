@@ -1,8 +1,4 @@
 module.exports = {
-  siteMetadata: {
-    description: 'Come check out the portfolio of Michael Frieze.',
-    author: 'Michael Frieze',
-  },
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,

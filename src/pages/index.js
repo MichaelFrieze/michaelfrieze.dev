@@ -22,12 +22,6 @@ export default () => {
             'Come check out the portfolio of Michael Frieze.' || description
           }
         />
-        <meta
-          name="og:description"
-          content={
-            'Come check out the portfolio of Michael Frieze.' || description
-          }
-        />
       </Helmet>
       <App />
     </>

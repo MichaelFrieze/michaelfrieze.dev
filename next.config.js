@@ -8,7 +8,7 @@ module.exports = withBundleAnalyzer({
       {
         source: '/',
         destination: '/about',
-        permanent: true,
+        permanent: false,
       },
     ]
   },

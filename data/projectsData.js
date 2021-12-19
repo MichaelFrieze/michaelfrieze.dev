@@ -1,19 +1,31 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Omnifood',
+    description: ``,
+    imgSrc: '/static/images/omnifood.jpg',
+    href: 'https://github.com/MichaelFrieze/omnifood',
+    liveLink: 'https://omnifood-michaelfrieze.netlify.app/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten handphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Proshop',
+    description: ``,
+    imgSrc: '/static/images/proshop.jpg',
+    href: 'https://github.com/MichaelFrieze/proshop',
+    liveLink: 'https://michaelfrieze-proshop.herokuapp.com/',
+  },
+  {
+    title: 'DJ Events',
+    description: ``,
+    imgSrc: '/static/images/dj-events.jpg',
+    href: 'https://github.com/MichaelFrieze/dj-events-frontend',
+    liveLink: 'https://michaelfrieze-djevents.vercel.app/',
+  },
+  {
+    title: "Slick's Slices",
+    description: ``,
+    imgSrc: '/static/images/slicks-slices.jpg',
+    href: 'https://github.com/MichaelFrieze/slicks-slices',
+    liveLink: 'https://slicksslices-michaelfrieze.netlify.app/',
   },
 ]
 

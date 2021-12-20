@@ -12,6 +12,8 @@ const Card = ({ title, description, imgSrc, href, liveLink }) => (
             className="object-cover object-center lg:h-48 md:h-36"
             width={544}
             height={306}
+            placeholder="blur"
+            blurDataURL={`data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN8cOPGfwAIwQORYHF5ygAAAABJRU5ErkJggg==`}
           />
         </Link>
       ) : (
@@ -21,6 +23,8 @@ const Card = ({ title, description, imgSrc, href, liveLink }) => (
           className="object-cover object-center lg:h-48 md:h-36"
           width={544}
           height={306}
+          placeholder="blur"
+          blurDataURL={`data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN8cOPGfwAIwQORYHF5ygAAAABJRU5ErkJggg==`}
         />
       )}
       <div className="p-6">

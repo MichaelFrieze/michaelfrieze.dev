@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Michael Frieze | Developer',
   author: 'Michael Frieze',
-  headerTitle: 'michaelfrieze.dev',
+  headerTitle: '@michaelfrieze',
   description:
     'Welcome to my blog and portfolio. I am a frontend developer that loves all things javascript.',
   language: 'en-us',

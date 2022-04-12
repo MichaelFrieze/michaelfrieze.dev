@@ -21,4 +21,4 @@ github: https://github.com/MichaelFrieze
 
 Upwork feedback:
 
-![Upwork](/static/images/upwork-reviews.png)
+![Upwork](/static/images/upwork-reviews.jpg)

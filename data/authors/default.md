@@ -13,4 +13,12 @@ github: https://github.com/MichaelFrieze
 
 ​​In my professional career, I started out as a Java developer working at Oakland University. During my time there, the team decided to implement ReactJS and this sparked my interest in JavaScript. I spent the next few years working on various JavaScript and CSS projects while continuing to work as a back-end developer. Now, I am shifting my focus more towards JavaScript and frontend development in general.
 
-​​When I am not coding, I enjoy playing guitar, watching "The Great Courses", playing PC games, reading, and spending time with my partner (since 2010).
+​​When I am not coding, I enjoy [playing guitar](https://soundcloud.com/mikefrieze88/something-i-made-in-2016), watching "The Great Courses", playing PC games, reading, and spending time with [my partner](https://kaylafoister.weebly.com/) (since 2010).
+
+---
+
+[Resume](https://drive.google.com/file/d/1frLY2ebxKNMudDrk0vBPu9eqaUhs6ONL/view?usp=sharing)
+
+Upwork feedback:
+
+![Upwork](/static/images/upwork-reviews.png)

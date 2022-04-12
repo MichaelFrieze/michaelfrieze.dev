@@ -1,10 +1,17 @@
 const projectsData = [
   {
-    title: 'DevSpace Remix',
+    title: 'DJ Events Remix',
     description: ``,
-    imgSrc: '/static/images/devspace.jpg',
-    href: 'https://github.com/MichaelFrieze/devspace-blog--remix',
-    liveLink: 'https://devspace-blog--remix.herokuapp.com/',
+    imgSrc: '/static/images/dj-events.jpg',
+    href: 'https://github.com/MichaelFrieze/djevents-remix',
+    liveLink: 'https://djevents-remix.up.railway.app/',
+  },
+  {
+    title: 'Remix Chat',
+    description: ``,
+    imgSrc: '/static/images/remix-chat.jpg',
+    href: 'https://github.com/MichaelFrieze/remix-chat',
+    liveLink: 'https://remix-chat-michaelfrieze.vercel.app/',
   },
   {
     title: 'Proshop',
@@ -14,13 +21,6 @@ const projectsData = [
     liveLink: 'https://michaelfrieze-proshop.herokuapp.com/',
   },
   {
-    title: 'Omnifood',
-    description: ``,
-    imgSrc: '/static/images/omnifood.jpg',
-    href: 'https://github.com/MichaelFrieze/omnifood',
-    liveLink: 'https://omnifood-michaelfrieze.netlify.app/',
-  },
-  {
     title: "Slick's Slices",
     description: ``,
     imgSrc: '/static/images/slicks-slices.jpg',
@@ -28,11 +28,11 @@ const projectsData = [
     liveLink: 'https://slicksslices-michaelfrieze.netlify.app/',
   },
   {
-    title: 'DJ Events',
+    title: 'Omnifood',
     description: ``,
-    imgSrc: '/static/images/dj-events.jpg',
-    href: 'https://github.com/MichaelFrieze/dj-events-frontend',
-    liveLink: 'https://michaelfrieze-djevents.vercel.app/',
+    imgSrc: '/static/images/omnifood.jpg',
+    href: 'https://github.com/MichaelFrieze/omnifood',
+    liveLink: 'https://omnifood-michaelfrieze.netlify.app/',
   },
 ]
 

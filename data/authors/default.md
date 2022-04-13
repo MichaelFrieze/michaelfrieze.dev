@@ -19,6 +19,10 @@ github: https://github.com/MichaelFrieze
 
 [Resume](https://drive.google.com/file/d/1frLY2ebxKNMudDrk0vBPu9eqaUhs6ONL/view?usp=sharing)
 
-Upwork feedback:
+Some of my Upwork feedback:
 
-![Upwork](/static/images/upwork-reviews.jpg)
+![Upwork Feedback](/static/images/upwork-feedback-1.jpg)
+<br />
+![Upwork Feedback](/static/images/upwork-feedback-2.jpg)
+<br />
+![Upwork Feedback](/static/images/upwork-feedback-3.jpg)

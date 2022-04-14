@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'contact@michaelfrieze.dev',
   github: 'https://github.com/MichaelFrieze',
-  twitter: 'https://twitter.com/michaelfrieze',
+  twitter: 'https://twitter.com/mfrieze1988',
   facebook: 'https://www.facebook.com/michaelfrieze88/',
   linkedin: 'https://www.linkedin.com/in/michaelfrieze/',
   locale: 'en-US',

@@ -4,7 +4,7 @@ avatar: /static/images/profile.jpg
 occupation: Frontend Developer
 company:
 email: contact@michaelfrieze.dev
-twitter: https://twitter.com/michaelfrieze
+twitter: https://twitter.com/mfrieze1988
 linkedin: https://www.linkedin.com/in/michaelfrieze/
 github: https://github.com/MichaelFrieze
 ---

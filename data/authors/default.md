@@ -17,7 +17,7 @@ github: https://github.com/MichaelFrieze
 
 ---
 
-[Resume](https://drive.google.com/file/d/1frLY2ebxKNMudDrk0vBPu9eqaUhs6ONL/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/114Hmps4UM5ecByMFBS1ZCqBbsbLk3ONY/view?usp=sharing)
 
 Some of my Upwork feedback:
 

@@ -1,8 +1,8 @@
 ---
-title: discussion-vs-rhetoric
-date: '2021-12-16'
+title: Example Post
+date: '2022-04-22'
 tags: ['markdown', 'philosophy']
-draft: false
+draft: true
 summary: Just a sample blog post of something I wrote a long time ago
 ---
 

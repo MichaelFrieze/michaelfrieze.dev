@@ -13,6 +13,8 @@ github: https://github.com/MichaelFrieze
 
 Welcome to my home on the internet. This site functions as a portfolio, a place to share code, and my thoughts on software development.
 
+I know not many people will be reading [my blog](https://www.michaelfrieze.dev/blog), but I think a great way to learn is to explain the how, the why, and the decisions behind them. So, the purpose of the blog is to explain the decisions and thoughts I have while creating / coding something. Also, I can put things here that I might want to use in the future.
+
 This site was built with Next.js using [this template](https://github.com/timlrx/tailwind-nextjs-starter-blog). Most of the inspiration came from [Lee Robsinson](https://leerob.io/) and [Kent C. Dodds](https://kentcdodds.com/). Eventually I will rebuild this site with [Remix](https://remix.run/).
 
 ---

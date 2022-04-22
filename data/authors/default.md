@@ -21,7 +21,7 @@ This site was built with Next.js using [this template](https://github.com/timlrx
 
 ## About me
 
-Hi, I'm Michael, a front-end developer currently working as a freelancer on Upwork. I'm 33 years old and currently live in Clinton Township, MI.
+I'm Michael, a front-end developer currently working as a freelancer on Upwork. I'm 33 years old and currently live in Clinton Township, MI.
 
 I found my passion for learning computer sciences at the age of 23 and went to college at age 25. Since then, I have dedicated countless hours to learning and expanding this passion.
 

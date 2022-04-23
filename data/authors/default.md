@@ -9,11 +9,9 @@ linkedin: https://www.linkedin.com/in/michaelfrieze/
 github: https://github.com/MichaelFrieze
 ---
 
-## About this site
+---
 
 Welcome to my home on the internet. This site functions as a portfolio; a place to share code, my experience, and my thoughts as a front-end developer.
-
-This site was built with Next.js using [this template](https://github.com/timlrx/tailwind-nextjs-starter-blog). Most of the inspiration came from [Lee Robsinson](https://leerob.io/) and [Kent C. Dodds](https://kentcdodds.com/).
 
 ---
 
@@ -27,16 +25,22 @@ As I've grown, I've worked alongside other developers who have raised my standar
 
 ​​In my professional career, I started out as a Java developer working at Oakland University. While working there, the team decided to implement React and this sparked my interest in front-end development. I spent the next few years learning JavaScript, Node.js, React, and CSS while continuing to work as a back-end developer. Now, I mainly focus on the front end and specialize in React.
 
+To learn more about my education and experience, [view my resume](https://drive.google.com/file/d/16DWD0RN7fsZ-Q2d0WnSnl0SM7Aopw3dq/view?usp=sharing).
+
 ​​When I am not coding, I enjoy [playing guitar](https://soundcloud.com/mikefrieze88/something-i-made-in-2016), watching lectures on Wondrium, playing PC games, reading, and spending time with [my partner](https://kaylafoister.weebly.com/) (since 2010).
 
 ---
 
-## Resume and Upwork feedback
-
-[Link to resume on Google Drive](https://drive.google.com/file/d/16DWD0RN7fsZ-Q2d0WnSnl0SM7Aopw3dq/view?usp=sharing)
+## Upwork feedback
 
 ![Upwork Feedback](/static/images/upwork-feedback-1.jpg)
 <br />
 ![Upwork Feedback](/static/images/upwork-feedback-2.jpg)
 <br />
 ![Upwork Feedback](/static/images/upwork-feedback-3.jpg)
+
+---
+
+## Credit
+
+This site was built with Next.js using [this template](https://github.com/timlrx/tailwind-nextjs-starter-blog). Most of the inspiration came from [Lee Robsinson](https://leerob.io/) and [Kent C. Dodds](https://kentcdodds.com/).

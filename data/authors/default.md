@@ -23,7 +23,7 @@ I'm Michael, a front-end developer currently working as a freelancer on Upwork. 
 
 I found my passion for learning computer sciences at the age of 23 and went to college at age 25. Since then, I have dedicated countless hours to learning and expanding this passion. Through my studies, I've gained a solid understanding of web development concepts and learned to apply these concepts to real-world scenarios and applications.
 
-As I've grown as a developer, I've worked alongside others who have raised my standards for whats expected of any web application. Through these experiences, I've had the opportunity to create applications that are not only enjoyable to use but are written in code that's maintainable and easy to understand.
+As I've grown, I've worked alongside other developers who have raised my standards for whats expected of any web application. Through these experiences, I've had the opportunity to create applications that are not only enjoyable to use but are written in code that's maintainable and easy to understand.
 
 ​​In my professional career, I started out as a Java developer working at Oakland University. While working there, the team decided to implement React and this sparked my interest in front-end development. I spent the next few years learning JavaScript, Node.js, React, and CSS while continuing to work as a back-end developer. Now, I mainly focus on the front end and specialize in React.
 

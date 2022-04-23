@@ -13,9 +13,9 @@ export default function Projects() {
             Projects
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Here are some projects I have worked on to showcase my skills and my progress as I
-            continue to learn. If you click on the image it will take you to the live application.
-            You can also click on "View GitHub" so see the source code.
+            I like to stay busy and keep learning, so I always have a project in the works. If you
+            click on the image it will take you to the live application. You can also click on "View
+            GitHub" so see the source code.
           </p>
         </div>
         <div className="container py-12">

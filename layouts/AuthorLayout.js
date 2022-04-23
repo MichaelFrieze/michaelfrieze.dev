@@ -39,7 +39,7 @@ export default function AuthorLayout({ children, frontMatter }) {
               alt="avatar"
               width="192px"
               height="192px"
-              className="rounded-full xl:rounded-lg"
+              className="rounded-lg"
               placeholder="blur"
               blurDataURL={`data:image/svg+xml;base64,${toBase64(shimmer(700, 475))}`}
             />

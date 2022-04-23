@@ -9,6 +9,8 @@ linkedin: https://www.linkedin.com/in/michaelfrieze/
 github: https://github.com/MichaelFrieze
 ---
 
+---
+
 ## About Me
 
 I'm Michael, a 33-year-old freelance developer based in Michigan.
@@ -38,3 +40,5 @@ To learn more about my education and experience, [view my resume](https://drive.
 ## Credit
 
 This site was built with Next.js using [this template](https://github.com/timlrx/tailwind-nextjs-starter-blog). Most of the inspiration came from [Lee Robsinson](https://leerob.io/) and [Kent C. Dodds](https://kentcdodds.com/).
+
+---

@@ -11,17 +11,15 @@ github: https://github.com/MichaelFrieze
 
 ## About this site
 
-Welcome to my home on the internet. This site functions as a portfolio, a place to share code, and my thoughts on software development.
+Welcome to my home on the internet. This site functions as a portfolio; a place to share code, my experience, and my thoughts on software development.
 
-I know not many people will be reading [my blog](https://www.michaelfrieze.dev/blog), but I think a great way to learn is to explain the how, the why, and the decisions behind them. So, the purpose of the blog is to explain the decisions and thoughts I have while creating / coding something. Also, I can put things here that I might want to use in the future.
-
-This site was built with Next.js using [this template](https://github.com/timlrx/tailwind-nextjs-starter-blog). Most of the inspiration came from [Lee Robsinson](https://leerob.io/) and [Kent C. Dodds](https://kentcdodds.com/). Eventually I will rebuild this site with [Remix](https://remix.run/).
+This site was built with Next.js using [this template](https://github.com/timlrx/tailwind-nextjs-starter-blog). Most of the inspiration came from [Lee Robsinson](https://leerob.io/) and [Kent C. Dodds](https://kentcdodds.com/).
 
 ---
 
 ## About me
 
-Hi, I'm Michael, a front-end developer currently working as a freelancer on Upwork. I'm 33 years old and currently live in Clinton Township, MI.
+I'm Michael, a front-end developer currently working as a freelancer on Upwork. I'm 33 years old and live in Clinton Township, MI.
 
 I found my passion for learning computer sciences at the age of 23 and went to college at age 25. Since then, I have dedicated countless hours to learning and expanding this passion.
 

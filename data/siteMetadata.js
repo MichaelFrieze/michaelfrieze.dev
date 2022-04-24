@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/MichaelFrieze/michaelfrieze.dev',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/profile.jpg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/profile.jpg',
   email: 'contact@michaelfrieze.dev',
   github: 'https://github.com/MichaelFrieze',
   twitter: 'https://twitter.com/mfrieze1988',
